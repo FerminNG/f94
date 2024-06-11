@@ -33,6 +33,7 @@ body {
 .cajas .caja:hover{
     box-shadow: 2px 10px 5px var(--colorFondo);
     cursor: pointer;
+}
 
 .cajas .caja::before{
     content: "";
